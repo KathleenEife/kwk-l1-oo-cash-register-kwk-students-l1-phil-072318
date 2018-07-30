@@ -7,3 +7,4 @@ class amazon
     @print_receipt = print_receipt
   end
 end 
+

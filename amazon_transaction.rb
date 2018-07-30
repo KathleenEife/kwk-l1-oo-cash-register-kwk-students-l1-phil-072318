@@ -1,5 +1,5 @@
 class amazon
-  attr_accessor
+  attr_accessor :product, :price
   def initialize(product, price, amazon_prime, print_receipt)
     @product = product
     @price = price
